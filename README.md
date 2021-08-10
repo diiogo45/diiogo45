@@ -1,6 +1,6 @@
 - 👋Oi,eu sou Diogo Oliveira
 - 👀 Estou interessado em HTML,CSS,JAVASCRIPT,FRAMEWORKS & front-end em geral.
-- 🌱 Atualmente estou aprendnedo JavaScript
+- 🌱 Atualmente estou aprendendo JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 email: diogo_1257@hotmail.com
      Linkedin: https://www.linkedin.com/in/diogo-olivera-842a4a1a1/
