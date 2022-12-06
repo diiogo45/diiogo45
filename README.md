@@ -13,4 +13,3 @@ Sou apaixonado em tecnologia,aprender novas coisas e estou sempre disponível pa
 
 Rede Sociais  👇
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Diogo-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-olivera-842a4a1a1/)](https://www.linkedin.com/in/diogo-olivera-842a4a1a1/)
