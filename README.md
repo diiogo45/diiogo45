@@ -8,7 +8,7 @@ Sou apaixonado em tecnologia,aprender novas coisas e estou sempre disponível pa
 **"O aprendizado continuo e o requisito básico para o sucesso"   👩🏾‍💻  📚**
 
  * 📍 São Paulo  - SP
- * 👩🏾‍💻 Front-End Junior (Em busca de uma oportunidade)
+ * 👩🏾‍💻 Front-End Junior
  *    Nível Inglês - Avançado
 
 Rede Sociais  👇
