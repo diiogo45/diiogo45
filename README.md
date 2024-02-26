@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Diogo Oliveira</h1>
 <h3 align="center">Front end Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diiogo45&label=Profile%20views&color=0e75b6&style=flat" alt="diiogo45" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064" alt="diiogo45" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diiogo45&show_icons=true&locale=en" alt="diiogo45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diiogo45&" alt="diiogo45" /></p>
+
+
