@@ -7,7 +7,7 @@
 
 - 🌱Atualmente estou aprendendo **JavaScript**
 
-- 📝Desenvolvedor Front-End **Developer**
+- 📝Desenvolvedor Front-End 
 
 - 👨‍💻 Formado em Análise e Desenvolvimento de sistemas pela [Estácio](Estácio)
 
