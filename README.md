@@ -7,11 +7,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
-- 🌱Atualmente estou aprendendo **JavaScript**
+- 👨‍💻 Formado em Análise e Desenvolvimento de sistemas pela [Estácio](Estácio)
 
 - 📝Desenvolvedor Front-End 
 
-- 👨‍💻 Formado em Análise e Desenvolvimento de sistemas pela [Estácio](Estácio)
+- 🌱Atualmente estou aprendendo **JavaScript**
 
 - 📫 email **diogo_1257@hotmail.com**
 <hr />
