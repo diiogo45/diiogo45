@@ -7,11 +7,14 @@
 
 - 🌱Atualmente estou aprendendo **JavaScript**
 
+- 👨‍💻 Formado em Análise e Desenvolvimento de sistemas pela [Estácio](Estácio)
+
 - 📫 email **diogo_1257@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diogo-olivera-842a4a1a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogo-olivera-842a4a1a1" height="30" width="40" /></a>
+<a href="https://instagram.com/diiogo_oliveira45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diiogo_oliveira45" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diiogo45&show_icons=true&locale=en" alt="diiogo45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diiogo45&" alt="diiogo45" /></p>
-
